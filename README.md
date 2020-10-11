@@ -1,2 +1,2 @@
 # OC_P4_startingwebsite
-La chouette agence - version du site de base
+Version d'origine du site à optimiser - à comparer avec l'édition finale
